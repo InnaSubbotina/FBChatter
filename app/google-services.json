@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1010376096602",
+    "firebase_url": "https://mychatter-9f043-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mychatter-9f043",
+    "storage_bucket": "mychatter-9f043.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010376096602:android:bbda36112c83593a1fd163",
+        "android_client_info": {
+          "package_name": "com.example.fbchatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010376096602-tdacj8f7inaruemo29ock2vi354fnd7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fbchatter",
+            "certificate_hash": "8b799c53e5dbeefd31a79175c469517ac2517ce1"
+          }
+        },
+        {
+          "client_id": "1010376096602-5qdtf0kt2hfmajum96hj5bp3ushg9mmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHy8qabPLBlr7oDI90Jllu7KwjGULl8vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010376096602-5qdtf0kt2hfmajum96hj5bp3ushg9mmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
